@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>mission_3-5</title>
+    <title>掲示板</title>
 </head>
 <body>
     <?php
